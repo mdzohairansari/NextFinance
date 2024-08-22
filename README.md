@@ -115,5 +115,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 - [Firebase](https://firebase.google.com/)
 
 ---
-
-Feel free to customize this `README.md` file further to suit your specific needs. Happy coding! 💻
